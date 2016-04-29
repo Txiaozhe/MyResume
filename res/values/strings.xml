@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我的简历</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- MainActivity -->
+    <string name="name">Name：</string>
+    <string name="my_name">唐小吉</string>
+    <string name="age">Age：</string>
+    <string name="my_age">22</string>
+    <string name="university">University：</string>
+    <string name="my_university">河北大学</string>
+    <string name="city">City：</string>
+    <string name="my_city">河北·保定</string>
+    <!-- SecondActivity -->
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="learned">已学课程：</string>
+    <string name="c">C语言，</string>
+    <string name="vb">Visual Basic，</string>
+    <string name="java">Java，</string>
+    <string name="js">Node.JS</string>
+    <string name="jsp">JSP设计，</string>
+    <string name="data">数据结构</string>
+    <string name="sql">MySQL</string>
+    <string name="so_on">other...</string>
+    <string name="honor">个人荣誉：</string>
+    <string name="first">2015年“互联网+”全国大学生创新创业大赛铜奖</string>
+    <string name="second">2015年“创青春”全国大学生创新创业大赛一等奖</string>
+    <!-- ThirdActivity -->
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="experience">大学经历：</string>
+    <string name="pu_time">2015.10-2016.1</string>
+    <string name="pu_place">保定国家大学科技园-蒲公英教育</string>
+    <string name="pu_">实习生</string>
+    <string name="pu_job">参与Android相关项目开发</string>
+
+    <string name="le_time">2016.03-至今</string>
+    <string name="le_place">保定国家大学科技园-格物科技</string>
+    <string name="le_">实习生</string>
+    <string name="le_job">参与Android相关项目开发</string>
+
+    <string name="tu_time">2015.03-至今</string>
+    <string name="tu_place">河北大学-零点工作室</string>
+    <string name="tu_">工作室成员</string>
+    <string name="tu_job">负责Android相关项目策划、开发</string>
+    <!-- ForthActivity -->
+
+    <string name="title_activity_forth">ForthActivity</string>
+    <string name="evaluate_myself">自我评价：</string>
+    <string name="evaluate_1">责任心强，在创新创业大赛中能认真负责地完成任务</string>
+    <string name="evaluate_2">抗压能力强，能在项目开发的同时兼顾本专业学习</string>
+    <string name="evaluate_3">自学能力强，自学Android开发相关的各种技术，现又自学Node.JS开发</string>
+    <string name="evaluate_4">能坚持学习，自学Android开发从大一坚持至今</string>
+    <string name="contact_way">联系方式：</string>
+    <string name="phone">Phone：</string>
+    <string name="phone_number">15733206382</string>
+    <string name="email">E-mail：</string>
+    <string name="email_address">t_xiaoji@qq.com</string>
+    <string name="address">Address：</string>
+    <string name="address_">河北省保定市莲池区五四东路180号</string>
+    <string name="git_hub">GitHub：</string>
+    <string name="git_hub_">https://github.com/Txiaozhe/</string>
+    <string name="go_to_git_hub">https://github.com/Txiaozhe/<a href="https://github.com/Txiaozhe/"></a></string>
+    <string name="call">电话邀请他面试</string>
+
+
+</resources>
