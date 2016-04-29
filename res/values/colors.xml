@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color_top_tab">#1b91d1</color> <!-- color of task tab. -->
+    <color name="background_color_label">#53b8e8</color> <!-- color of label tab. -->
+    <color name="background_color_background">#e7e7fd</color> <!-- color of app background. -->
+
+    <color name="text_color_87">#dee0e0e0</color> <!-- color of app name, with 87% alpha. -->
+
+    <color name="alpha100">#0fff</color> <!-- alpha = 100% -->
+</resources>
