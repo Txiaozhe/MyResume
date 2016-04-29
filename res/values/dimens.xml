@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_app_name">20sp</dimen> <!-- text color of app_name in label tab. -->
+    <dimen name="img_width_height_large">160dp</dimen> <!-- width and height of ImageView -->
+    <dimen name="img_width_height_mid">70dp</dimen> <!-- width of SeekBar -->
+    <dimen name="padding_mid">10dp</dimen> <!-- padding 20dp -->
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
